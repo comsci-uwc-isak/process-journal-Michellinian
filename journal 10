@@ -1,0 +1,10 @@
+Today we created a another program related to the RentalCarApp. We had to create a 100 x 5 box using *(asterisk marks), and
+inside that box, in the center we had to echo the argument the user types in. For example when the user types in "bash frame 
+Welcome" the outcome should be something like this:
+************....***************
+*                             *
+*           Welcome           *
+*                             *
+*************...***************
+Although it took me a long time, today I did it all the program by myself without the help of anyoe else, which I was very proud
+of. I learned that I can program if I think very hard. 
