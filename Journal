@@ -1,0 +1,87 @@
+Day 1: 
+On the very first day of the class, we started off with a non-programming activity. I was very surprised by how much other studetns
+knew about computers, and I felt like I needed to work hard in order to be able to be on the same page as the rest of the class.
+
+Day 2: 
+Today we learned about terminals and it was the first time uding terminal, so it was a little hard to follow.
+I asked my friend once in a while, when I didn't uderstand something. I feel like for now, terminal is hard to use, since I am 
+an ultimate beginner, but once I practice a little bit, I think I can manage to type in the commads fluently.
+For the class style, I really liked how we had a 5 minutes break, because computer science can sometimes be overwhelming. It is 
+a really good time for us to refresh our mind, so that we don't get tired and confused.
+
+Day 3: 
+Today was a very productive day. We learned some new commands in bash, and unlike yesterdays class, I got a better understanding
+of how terminal works. Today I felt like Dr.Ruben taught us in a good speed, and I didn't have to ask any of my friends for help. 
+I like writing this journal. It helps me reflect on what we did everyday, and keeps me on track. 
+
+Day 4: 
+Today we were introduced to if statements. I knew about if statements and, although the syntax is different the concept is exactly
+the same so it was very easy to follow and to understand. The task of the ramen restaurant was a little bit challenging for me, so 
+I got help from my friends. 
+
+Day 5: 
+Today was a coding day. Our task was to create an interactive game using if statements. During the class I couldn't finish 
+because an error just kept popping up which I figured out that it had to do with "$!/bin/bash". After figuring out what the 
+error was, I restarted the whole thing, becuase I got confused. After going back to the house I worked on it for quite a long 
+time, and I finally maaged to finish it.
+
+Day 6: 
+Today we started with the while loops. But before that we started with the with a little quiz that checked the concepts of
+computer science, that we covered in the class. After that we leared about while loops. While understanding the basic idea 
+of how it works, the task that was given in the task was very hard. I was looking at the flowchart for quite a long time because
+I didn't get what this game was about. I was already confused by the first conditional statement that said "!win", and so it took
+me a long time to actually code this. Although I was able to, because I got a lot of help from my friends again.
+
+Day 7:
+We were given 4 tasks to do for today's class. Creating fibonacci sequence in bash, finding errors, creating monty hall problem 
+in bash and drawing a flowchart. I was able to do all of them except for the thrid one. Although I understood the concept of 
+the game, it was too hard for me to code it, so my friend sent me a code for this problem, which I have some problem understanding.
+
+Day 8: 
+Today we did some reading about types of changeover, and we wrote a summary about the reading that we did during class. 
+We also learned a new thing in the repository, which is to create a homepage like thing. Without using html, with simple 
+procedures we were able to create something that looks like a homepage of somethig, which helps us to organize our tasks.
+Also a little before, we had 4 tasks to do about fiboacci, fixing the code, and so on. I was shocked when I got a 30, because 
+I was sure I had done I everything I could. Although I did have to resubmit some stuffs, and I didn't create the monty hall 
+problem. I thought I had to try a lot harder to keep up with other.
+
+Day 9: 
+First we did a short warm up of identifying the input/output and the steps of the program, which led to our final task for unit 1
+which is to create a car rental program. We tried to link the context of the program with the syllabus 1.1.1. Today I learned 
+what input ad output was, and I was able to identify them. Also I understood the Car rental app.
+
+Day 10: 
+Today we took our first step to creating the car rental app. Our first step was to create an install program. Essentially 
+this program creates a folder "CarRentalApp", in the desktop, and inside that folder it automatically creates another folder which
+are "db", short for database, and "scripts". This time. Dr. Pinzon, went through with us the whole process, so I had no difficulty 
+understanding.
+
+Day 11: 
+After we created the install.sh, we made another program which was called the "frame". In this program, a message is supposed 
+to show up when a certain code is executed. And the message is supposed to appear inside a box, that we also create within the 
+program "frame". 
+ex. 
+*******************************************
+*                                         *
+*                 Welcome !               *
+*                                         *
+*******************************************
+I had a hard time coding this, because it was somewhat complicating. I had to use a lot of seperate if statements, in the program
+which made me confused. Maybe because I did without comments that made it harder for me to look at the codes. Next time I will
+add some comments inside the code, so that it's easy for me to code, and also for other people to see my code.
+
+Day12: 
+Today we created "create.sh" and "record.sh". The first one is supposed to create a car, with the arguments that the user types
+in. The user should type in "licensePlate, Model, Color, numberOfPassengers", and the create.sh should store that value in the 
+maincarfile.txt, which is created inside the db folder. Then there is the record.sh where it creates a .txt file accordingly 
+to the cars license plate. Meaning, it creates an individual .txt file for each car, storing the information, "km, startOfTrip 
+, endOfTrip", whch are typed as arguments from the users. I managed to understand the code, although I didn't know how to connect 
+these two programs. I couldn't figure out, how to create a file of an individual car. Whenever I execute "bash record.sh",
+it always says, "File not found!", and I need help with how to fix this error.
+
+Day13: 
+During this class we first updated our car rental app repository. We identified our success criteria, and we also wrote about the
+solution proposed. After that we did a short presentation about our assignments that the teacher gave us last lesson. We had 
+to choose one of the four tasks, which were "edit, summary, delete, backup", I chose edit, although I couldn't cactually code
+it, because I broke my computer. So I just summarized the steps of editting, and did a very brief presentation about it. I am 
+planning on working with the code later in the day.
